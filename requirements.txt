@@ -1,0 +1,18 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+
+# Location and mapping
+folium>=0.14.0
+streamlit-folium>=0.15.0
+geopandas>=0.14.0
+
+# Data processing
+requests>=2.31.0
+pyarrow>=13.0.0  # For parquet files
+
+# Optional: for real API integrations
+# safegraph-py  # If SafeGraph provides official SDK
+# census  # US Census API wrapper
