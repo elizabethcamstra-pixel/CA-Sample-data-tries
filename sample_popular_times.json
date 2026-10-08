@@ -1,0 +1,492 @@
+{
+  "Monday": [
+    {
+      "hour": 6,
+      "busyness_percent": 24
+    },
+    {
+      "hour": 7,
+      "busyness_percent": 34
+    },
+    {
+      "hour": 8,
+      "busyness_percent": 27
+    },
+    {
+      "hour": 9,
+      "busyness_percent": 27
+    },
+    {
+      "hour": 10,
+      "busyness_percent": 21
+    },
+    {
+      "hour": 11,
+      "busyness_percent": 48
+    },
+    {
+      "hour": 12,
+      "busyness_percent": 76
+    },
+    {
+      "hour": 13,
+      "busyness_percent": 53
+    },
+    {
+      "hour": 14,
+      "busyness_percent": 55
+    },
+    {
+      "hour": 15,
+      "busyness_percent": 40
+    },
+    {
+      "hour": 16,
+      "busyness_percent": 41
+    },
+    {
+      "hour": 17,
+      "busyness_percent": 78
+    },
+    {
+      "hour": 18,
+      "busyness_percent": 87
+    },
+    {
+      "hour": 19,
+      "busyness_percent": 40
+    },
+    {
+      "hour": 20,
+      "busyness_percent": 38
+    },
+    {
+      "hour": 21,
+      "busyness_percent": 37
+    },
+    {
+      "hour": 22,
+      "busyness_percent": 36
+    }
+  ],
+  "Tuesday": [
+    {
+      "hour": 6,
+      "busyness_percent": 36
+    },
+    {
+      "hour": 7,
+      "busyness_percent": 30
+    },
+    {
+      "hour": 8,
+      "busyness_percent": 28
+    },
+    {
+      "hour": 9,
+      "busyness_percent": 35
+    },
+    {
+      "hour": 10,
+      "busyness_percent": 37
+    },
+    {
+      "hour": 11,
+      "busyness_percent": 62
+    },
+    {
+      "hour": 12,
+      "busyness_percent": 73
+    },
+    {
+      "hour": 13,
+      "busyness_percent": 53
+    },
+    {
+      "hour": 14,
+      "busyness_percent": 40
+    },
+    {
+      "hour": 15,
+      "busyness_percent": 43
+    },
+    {
+      "hour": 16,
+      "busyness_percent": 65
+    },
+    {
+      "hour": 17,
+      "busyness_percent": 86
+    },
+    {
+      "hour": 18,
+      "busyness_percent": 82
+    },
+    {
+      "hour": 19,
+      "busyness_percent": 64
+    },
+    {
+      "hour": 20,
+      "busyness_percent": 32
+    },
+    {
+      "hour": 21,
+      "busyness_percent": 32
+    },
+    {
+      "hour": 22,
+      "busyness_percent": 35
+    }
+  ],
+  "Wednesday": [
+    {
+      "hour": 6,
+      "busyness_percent": 22
+    },
+    {
+      "hour": 7,
+      "busyness_percent": 36
+    },
+    {
+      "hour": 8,
+      "busyness_percent": 28
+    },
+    {
+      "hour": 9,
+      "busyness_percent": 25
+    },
+    {
+      "hour": 10,
+      "busyness_percent": 26
+    },
+    {
+      "hour": 11,
+      "busyness_percent": 51
+    },
+    {
+      "hour": 12,
+      "busyness_percent": 81
+    },
+    {
+      "hour": 13,
+      "busyness_percent": 62
+    },
+    {
+      "hour": 14,
+      "busyness_percent": 68
+    },
+    {
+      "hour": 15,
+      "busyness_percent": 46
+    },
+    {
+      "hour": 16,
+      "busyness_percent": 40
+    },
+    {
+      "hour": 17,
+      "busyness_percent": 71
+    },
+    {
+      "hour": 18,
+      "busyness_percent": 82
+    },
+    {
+      "hour": 19,
+      "busyness_percent": 61
+    },
+    {
+      "hour": 20,
+      "busyness_percent": 35
+    },
+    {
+      "hour": 21,
+      "busyness_percent": 24
+    },
+    {
+      "hour": 22,
+      "busyness_percent": 24
+    }
+  ],
+  "Thursday": [
+    {
+      "hour": 6,
+      "busyness_percent": 35
+    },
+    {
+      "hour": 7,
+      "busyness_percent": 25
+    },
+    {
+      "hour": 8,
+      "busyness_percent": 23
+    },
+    {
+      "hour": 9,
+      "busyness_percent": 36
+    },
+    {
+      "hour": 10,
+      "busyness_percent": 36
+    },
+    {
+      "hour": 11,
+      "busyness_percent": 62
+    },
+    {
+      "hour": 12,
+      "busyness_percent": 85
+    },
+    {
+      "hour": 13,
+      "busyness_percent": 58
+    },
+    {
+      "hour": 14,
+      "busyness_percent": 41
+    },
+    {
+      "hour": 15,
+      "busyness_percent": 68
+    },
+    {
+      "hour": 16,
+      "busyness_percent": 42
+    },
+    {
+      "hour": 17,
+      "busyness_percent": 80
+    },
+    {
+      "hour": 18,
+      "busyness_percent": 71
+    },
+    {
+      "hour": 19,
+      "busyness_percent": 61
+    },
+    {
+      "hour": 20,
+      "busyness_percent": 21
+    },
+    {
+      "hour": 21,
+      "busyness_percent": 28
+    },
+    {
+      "hour": 22,
+      "busyness_percent": 34
+    }
+  ],
+  "Friday": [
+    {
+      "hour": 6,
+      "busyness_percent": 31
+    },
+    {
+      "hour": 7,
+      "busyness_percent": 30
+    },
+    {
+      "hour": 8,
+      "busyness_percent": 36
+    },
+    {
+      "hour": 9,
+      "busyness_percent": 33
+    },
+    {
+      "hour": 10,
+      "busyness_percent": 32
+    },
+    {
+      "hour": 11,
+      "busyness_percent": 64
+    },
+    {
+      "hour": 12,
+      "busyness_percent": 79
+    },
+    {
+      "hour": 13,
+      "busyness_percent": 64
+    },
+    {
+      "hour": 14,
+      "busyness_percent": 69
+    },
+    {
+      "hour": 15,
+      "busyness_percent": 57
+    },
+    {
+      "hour": 16,
+      "busyness_percent": 54
+    },
+    {
+      "hour": 17,
+      "busyness_percent": 88
+    },
+    {
+      "hour": 18,
+      "busyness_percent": 99
+    },
+    {
+      "hour": 19,
+      "busyness_percent": 63
+    },
+    {
+      "hour": 20,
+      "busyness_percent": 34
+    },
+    {
+      "hour": 21,
+      "busyness_percent": 33
+    },
+    {
+      "hour": 22,
+      "busyness_percent": 31
+    }
+  ],
+  "Saturday": [
+    {
+      "hour": 6,
+      "busyness_percent": 23
+    },
+    {
+      "hour": 7,
+      "busyness_percent": 36
+    },
+    {
+      "hour": 8,
+      "busyness_percent": 34
+    },
+    {
+      "hour": 9,
+      "busyness_percent": 33
+    },
+    {
+      "hour": 10,
+      "busyness_percent": 36
+    },
+    {
+      "hour": 11,
+      "busyness_percent": 42
+    },
+    {
+      "hour": 12,
+      "busyness_percent": 78
+    },
+    {
+      "hour": 13,
+      "busyness_percent": 83
+    },
+    {
+      "hour": 14,
+      "busyness_percent": 77
+    },
+    {
+      "hour": 15,
+      "busyness_percent": 86
+    },
+    {
+      "hour": 16,
+      "busyness_percent": 62
+    },
+    {
+      "hour": 17,
+      "busyness_percent": 60
+    },
+    {
+      "hour": 18,
+      "busyness_percent": 60
+    },
+    {
+      "hour": 19,
+      "busyness_percent": 67
+    },
+    {
+      "hour": 20,
+      "busyness_percent": 26
+    },
+    {
+      "hour": 21,
+      "busyness_percent": 20
+    },
+    {
+      "hour": 22,
+      "busyness_percent": 22
+    }
+  ],
+  "Sunday": [
+    {
+      "hour": 6,
+      "busyness_percent": 36
+    },
+    {
+      "hour": 7,
+      "busyness_percent": 38
+    },
+    {
+      "hour": 8,
+      "busyness_percent": 20
+    },
+    {
+      "hour": 9,
+      "busyness_percent": 29
+    },
+    {
+      "hour": 10,
+      "busyness_percent": 20
+    },
+    {
+      "hour": 11,
+      "busyness_percent": 46
+    },
+    {
+      "hour": 12,
+      "busyness_percent": 99
+    },
+    {
+      "hour": 13,
+      "busyness_percent": 72
+    },
+    {
+      "hour": 14,
+      "busyness_percent": 75
+    },
+    {
+      "hour": 15,
+      "busyness_percent": 87
+    },
+    {
+      "hour": 16,
+      "busyness_percent": 60
+    },
+    {
+      "hour": 17,
+      "busyness_percent": 41
+    },
+    {
+      "hour": 18,
+      "busyness_percent": 40
+    },
+    {
+      "hour": 19,
+      "busyness_percent": 42
+    },
+    {
+      "hour": 20,
+      "busyness_percent": 21
+    },
+    {
+      "hour": 21,
+      "busyness_percent": 23
+    },
+    {
+      "hour": 22,
+      "busyness_percent": 37
+    }
+  ]
+}
